@@ -31,9 +31,9 @@ python cartoonify.py --input path/to/your/image.jpg --output path/to/save/cartoo
 <img width="224" alt="image" src="https://github.com/user-attachments/assets/244db3e3-3d5a-42f9-a5dc-2ff707b2b5a6">
 
 # Technologies Used
-Python: Programming language used for the project
-OpenCV: Library for image processing
-NumPy: Library for numerical computations
+Python: Programming language used for the project.
+OpenCV: Library for image processing.
+NumPy: Library for numerical computations.
 
 Thank you for visiting the Image to Cartoon project! If you have any questions, feel free to open an issue or reach out.
 
